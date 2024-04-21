@@ -1,4 +1,5 @@
 Hi there 👋 I'm Aaftab Noorani, also known as aaftabNR.
+...
 
 🔭 I’m currently pursuing B.tech in Computer Science from Symbiosis Institute of technology.
 
