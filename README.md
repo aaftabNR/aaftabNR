@@ -10,6 +10,9 @@ Hi there 👋 I'm Aaftab Noorani, also known as aaftabNR.
 
 📫 You can find me on [Linkedin](https://www.linkedin.com/in/aaftab-noorani-b56719248/), so feel free to get in touch!
 
+https://img.shields.io/github/stars/:user/:repo
+
+
 😄 Pronouns: He/Him
 
 ⚡ Hobbies:Cricket
